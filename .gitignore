@@ -1,0 +1,5 @@
+node_modules
+lib/store/*
+package-lock.json
+
+!.gitkeep
