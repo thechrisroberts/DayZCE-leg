@@ -1,15 +1,18 @@
 {
-  "name": "dayzcelib",
+  "name": "dayzce",
   "version": "1.0.0",
   "description": "",
-  "main": "lib.js",
+  "main": "app.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "author": "",
   "license": "ISC",
   "dependencies": {
+    "bookshelf": "^1.2.0",
     "deepmerge": "^4.2.2",
+    "knex": "^0.21.14",
+    "sqlite3": "^5.0.0",
     "xml2json": "^0.12.0"
   }
 }

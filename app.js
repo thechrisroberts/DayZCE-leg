@@ -1,8 +1,8 @@
 'use strict';
 
 const config = require('./config');
-const loadCE = require('./load/loadCE');
-const loadTrader = require('./load/loadTrader');
+const loadCE = require('./lib/load/loadCE');
+const loadTrader = require('./lib/load/loadTrader');
 
 // console.log('Loading CE files');
 
